@@ -13,8 +13,8 @@ import re
 from urllib.request import urlopen
 import random, string
 
-TOKEN = '6572401549:AAGPMsqAGUe5IjL1DKjUfKtoGbmZRAtjM1s'
-ADMIN_ID = '661952778'
+TOKEN = 'YOUR TOKEN'
+ADMIN_ID = 'ADMIN_ID'
 user = []
 bot = telebot.TeleBot(TOKEN)
 
